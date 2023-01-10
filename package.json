@@ -1,0 +1,26 @@
+{
+  "name": "wolf3d",
+  "version": "1.0.0",
+  "description": "just another 3d game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anasjaidi/Wolf3d.js.git"
+  },
+  "keywords": [
+    "raycasting",
+    "js"
+  ],
+  "author": "anas jaidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anasjaidi/Wolf3d.js/issues"
+  },
+  "homepage": "https://github.com/Anasjaidi/Wolf3d.js#readme",
+  "dependencies": {
+    "p5": "^1.5.0"
+  }
+}
